@@ -13,7 +13,6 @@
 		3B1816DB21502A17000190CA /* AllTasksClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B1816DA21502A17000190CA /* AllTasksClass.swift */; };
 		3B1816DD21502A6B000190CA /* PriorityEnumeration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B1816DC21502A6B000190CA /* PriorityEnumeration.swift */; };
 		3B1816DF21516BC8000190CA /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B1816DE21516BC7000190CA /* Utilities.swift */; };
-		3BB3D81921595BDA008B3C6A /* UserClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB3D81821595BDA008B3C6A /* UserClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -36,7 +35,6 @@
 		3B1816DA21502A17000190CA /* AllTasksClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllTasksClass.swift; sourceTree = "<group>"; };
 		3B1816DC21502A6B000190CA /* PriorityEnumeration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriorityEnumeration.swift; sourceTree = "<group>"; };
 		3B1816DE21516BC7000190CA /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
-		3BB3D81821595BDA008B3C6A /* UserClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,7 +73,6 @@
 				3B1816DA21502A17000190CA /* AllTasksClass.swift */,
 				3B1816DE21516BC7000190CA /* Utilities.swift */,
 				3B1816DC21502A6B000190CA /* PriorityEnumeration.swift */,
-				3BB3D81821595BDA008B3C6A /* UserClass.swift */,
 			);
 			path = TaskManagerProject;
 			sourceTree = "<group>";
@@ -141,7 +138,6 @@
 				3B1816DF21516BC8000190CA /* Utilities.swift in Sources */,
 				3B1816D921501E7D000190CA /* MenuClass.swift in Sources */,
 				3B1816D021501AE4000190CA /* main.swift in Sources */,
-				3BB3D81921595BDA008B3C6A /* UserClass.swift in Sources */,
 				3B1816D721501C0D000190CA /* TaskClass.swift in Sources */,
 				3B1816DD21502A6B000190CA /* PriorityEnumeration.swift in Sources */,
 				3B1816DB21502A17000190CA /* AllTasksClass.swift in Sources */,
